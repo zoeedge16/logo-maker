@@ -20,4 +20,5 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 [Repository](https://github.com/zoeedge16/logo-maker)
 
 
-[Preview of Project]()
+[Preview of Project](https://github.com/zoeedge16/logo-maker/assets/130196402/f7b703e2-c23f-4fbb-8344-30adda05a0af
+)
